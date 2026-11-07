@@ -22,4 +22,4 @@ My first repository
 > "The town traps everyone who enters."
 
 ### Rating
-⭐⭐⭐⭐⭐
+⭐⭐⭐⭐⭐ 
